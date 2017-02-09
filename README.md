@@ -1,2 +1,2 @@
 # TwittTrends
-This is a prject from the cource Cloud Computing.
+This is a prject from the course Cloud Computing.
